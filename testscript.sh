@@ -2,4 +2,4 @@
 echo "Github script"
 NUM=$(($FIRSTNUM + $SECONDNUM))
 echo "$NUM"
-echo "XLR8"
+echo "XLR8 -ben10"
